@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.vscode/
+
+random_forest_model.joblib
