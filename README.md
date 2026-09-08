@@ -49,3 +49,10 @@ House_prediction_api/
 │
 ├── random_forest_model.joblib
 └── model_columns.joblib
+
+## Generate the Model
+
+Before running the API, generate the trained model:
+
+```bash
+python train.py
